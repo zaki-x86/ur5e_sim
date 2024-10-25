@@ -7,6 +7,8 @@
   <maintainer email="zaki.x86@gmail.com">Mohamed Zaki</maintainer>
   <license>MIT</license>
 
+  <build_depend>gazebo_ros</build_depend>
+
   <exec_depend>joint_state_publisher_gui</exec_depend>
   <exec_depend>launch</exec_depend>
   <exec_depend>launch_ros</exec_depend>
@@ -14,6 +16,7 @@
   <exec_depend>rviz2</exec_depend>
   <exec_depend>urdf</exec_depend>
   <exec_depend>xacro</exec_depend>
+  <exec_depend>gazebo_ros</exec_depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
