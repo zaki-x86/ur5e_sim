@@ -9,11 +9,14 @@ This package is for simulation of UR5e robot, it contains the following:
 
 ## Dependencies
 
+- ros2 humble
+- gazebo
+- gazebo_ros
 - xacro
+- urdf
 - joint_state_publisher_gui
 - robot_state_publisher
 - rviz2
-- urdf
 
 ## Running the simulation
 
